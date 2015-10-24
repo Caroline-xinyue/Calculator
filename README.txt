@@ -1,5 +1,2 @@
-README.txt
-
-	A simple calculator application in java using swing/awt.
-	
-	The main class is ClacLauncher
+# Java Calculator Project
+A project that I am currently working on, learning how to implement stack, queue.
